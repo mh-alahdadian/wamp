@@ -1,0 +1,13 @@
+{
+  "name": "server.js",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/autobahn": "^20.9.1",
+    "autobahn": "^22.11.1"
+  }
+}

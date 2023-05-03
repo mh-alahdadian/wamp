@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/autobahn": "^20.9.1",
+    "autobahn": "npm:autobahn-browser@^22.11.1"
+  }
+}
